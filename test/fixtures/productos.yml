@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombreproducto: MyString
+  categoriaproducto: MyString
+  cantidad: 1
+  precio: 1
+  fechavencimiento: 2015-11-30
+  caracteristicasproducto: MyString
+
+two:
+  nombreproducto: MyString
+  categoriaproducto: MyString
+  cantidad: 1
+  precio: 1
+  fechavencimiento: 2015-11-30
+  caracteristicasproducto: MyString
